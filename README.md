@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0011-container-with-most-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0215-kth-largest-element-in-an-array) |
 | [0810-chalkboard-xor-game](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0810-chalkboard-xor-game) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0084-largest-rectangle-in-histogram) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0215-kth-largest-element-in-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->

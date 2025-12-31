@@ -94,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0050-powx-n) |
 | [0810-chalkboard-xor-game](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0810-chalkboard-xor-game) |
 ## Bit Manipulation
 |  |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0050-powx-n) |
 | [0810-chalkboard-xor-game](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0810-chalkboard-xor-game) |
+| [3021-alice-and-bob-playing-flower-game](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/3021-alice-and-bob-playing-flower-game) |
 ## Bit Manipulation
 |  |
 | ------- |

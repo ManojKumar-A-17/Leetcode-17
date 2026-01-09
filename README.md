@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0155-min-stack) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |

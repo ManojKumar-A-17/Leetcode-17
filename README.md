@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0084-largest-rectangle-in-histogram) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0215-kth-largest-element-in-an-array) |
 | [0810-chalkboard-xor-game](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0810-chalkboard-xor-game) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0155-min-stack) |
 ## Binary Search
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0084-largest-rectangle-in-histogram) |
 ## Tree
 |  |
@@ -114,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0155-min-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

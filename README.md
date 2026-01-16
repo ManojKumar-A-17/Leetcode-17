@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0085-maximal-rectangle) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/2390-removing-stars-from-a-string) |
@@ -105,10 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0695-max-area-of-island](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0695-max-area-of-island) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Linked List
 |  |

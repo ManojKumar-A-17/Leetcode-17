@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0268-missing-number) |
+| [0477-total-hamming-distance](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0477-total-hamming-distance) |
 | [0695-max-area-of-island](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0695-max-area-of-island) |
 | [0810-chalkboard-xor-game](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0810-chalkboard-xor-game) |
 | [0946-validate-stack-sequences](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0946-validate-stack-sequences) |
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0268-missing-number) |
+| [0477-total-hamming-distance](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0477-total-hamming-distance) |
 | [0810-chalkboard-xor-game](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0810-chalkboard-xor-game) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/3021-alice-and-bob-playing-flower-game) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0268-missing-number) |
+| [0477-total-hamming-distance](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0477-total-hamming-distance) |
 | [0810-chalkboard-xor-game](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0810-chalkboard-xor-game) |
 ## Brainteaser
 |  |

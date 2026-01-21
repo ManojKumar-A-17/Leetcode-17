@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0268-missing-number) |
 | [0477-total-hamming-distance](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0477-total-hamming-distance) |
 | [0695-max-area-of-island](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0695-max-area-of-island) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0041-first-missing-positive) |
+| [0219-contains-duplicate-ii](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0268-missing-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Recursion
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0695-max-area-of-island) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

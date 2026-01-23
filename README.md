@@ -119,12 +119,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0200-number-of-islands) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0695-max-area-of-island) |
 ## Union Find

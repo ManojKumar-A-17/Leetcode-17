@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-chalkboard-xor-game](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0810-chalkboard-xor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/3021-alice-and-bob-playing-flower-game) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -214,4 +215,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

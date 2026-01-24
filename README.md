@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1260-shift-2d-grid](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0268-missing-number) |
 | [0477-total-hamming-distance](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0477-total-hamming-distance) |
 | [0810-chalkboard-xor-game](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0810-chalkboard-xor-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/3021-alice-and-bob-playing-flower-game) |
 ## Bit Manipulation
 |  |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0238-product-of-array-except-self) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

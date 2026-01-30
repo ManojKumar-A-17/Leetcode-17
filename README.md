@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0274-h-index) |
 | [0477-total-hamming-distance](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0477-total-hamming-distance) |
 | [0695-max-area-of-island](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0695-max-area-of-island) |
 | [0810-chalkboard-xor-game](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0810-chalkboard-xor-game) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0274-h-index) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -247,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0785-is-graph-bipartite) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

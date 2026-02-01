@@ -18,7 +18,7 @@ class Solution {
         TreeNode cur1 = p;
         TreeNode cur2 = q;
         if(cur1==null && cur2==null)return true;
-        if(cur1==null || cur2==null)return false;
+        if(cur2==null || cur1==null)return false;
         return (cur1.val==cur2.val)&&isSameTree(cur1.left,cur2.left)&&isSameTree(cur1.right,cur2.right);
     }
 }

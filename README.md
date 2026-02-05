@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## Greedy
 |  |
 | ------- |

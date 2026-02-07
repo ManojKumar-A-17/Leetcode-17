@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0994-rotting-oranges) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1019-next-greater-node-in-linked-list) |
 | [1260-shift-2d-grid](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0445-add-two-numbers-ii) |
 | [0897-increasing-order-search-tree](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0897-increasing-order-search-tree) |
 | [0946-validate-stack-sequences](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0946-validate-stack-sequences) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/2487-remove-nodes-from-linked-list) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0085-maximal-rectangle) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/2487-remove-nodes-from-linked-list) |

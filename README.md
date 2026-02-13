@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1019-next-greater-node-in-linked-list) |
 | [1260-shift-2d-grid](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Number Theory
 |  |

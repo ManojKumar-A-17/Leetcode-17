@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0287-find-the-duplicate-number) |
 | [0477-total-hamming-distance](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0477-total-hamming-distance) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0695-max-area-of-island) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0810-chalkboard-xor-game](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0810-chalkboard-xor-game) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0445-add-two-numbers-ii) |
 | [0477-total-hamming-distance](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0477-total-hamming-distance) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0628-maximum-product-of-three-numbers) |
 | [0810-chalkboard-xor-game](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0810-chalkboard-xor-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0274-h-index) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |

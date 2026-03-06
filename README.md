@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0268-missing-number) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0151-reverse-words-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/2390-removing-stars-from-a-string) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0043-multiply-strings) |
 | [0946-validate-stack-sequences](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/2390-removing-stars-from-a-string) |

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0164-maximum-gap) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0876-middle-of-the-linked-list) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0217-contains-duplicate) |

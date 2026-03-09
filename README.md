@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0287-find-the-duplicate-number) |
 | [0477-total-hamming-distance](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0477-total-hamming-distance) |
+| [0523-continuous-subarray-sum](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0695-max-area-of-island) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0445-add-two-numbers-ii) |
 | [0477-total-hamming-distance](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0477-total-hamming-distance) |
+| [0523-continuous-subarray-sum](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0628-maximum-product-of-three-numbers) |
 | [0810-chalkboard-xor-game](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0810-chalkboard-xor-game) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0268-missing-number) |
+| [0523-continuous-subarray-sum](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0523-continuous-subarray-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/0523-continuous-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ManojKumar-A-17/Leetcode-17/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Number Theory
